@@ -7621,6 +7621,38 @@ h1, h2, h3, h4, h5,
         border: 2px solid transparent;
         background: #ee76ad;
         color: #fff; }
+  .btn.btn-secondary {
+    background: #fdf2ea;
+    border: 2px solid #fdf2ea;
+    color: #efac78; }
+    .btn.btn-secondary:hover {
+      border: 2px solid #efac78;
+      background: transparent;
+      color: #efac78; }
+    .btn.btn-secondary.btn-outline-primary {
+      border: 2px solid #efac78;
+      background: transparent;
+      color: #efac78; }
+      .btn.btn-secondary.btn-outline-primary:hover {
+        border: 2px solid transparent;
+        background: #efac78;
+        color: #fff; }
+  .btn.btn-ternary {
+    background: #def4fb;
+    border: 2px solid #def4fb;
+    color: #29bae4; }
+    .btn.btn-ternary:hover {
+      border: 2px solid #29bae4;
+      background: transparent;
+      color: #29bae4; }
+    .btn.btn-ternary.btn-outline-primary {
+      border: 2px solid #29bae4;
+      background: transparent;
+      color: #29bae4; }
+      .btn.btn-ternary.btn-outline-primary:hover {
+        border: 2px solid transparent;
+        background: #29bae4;
+        color: #fff; }
   .btn.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.8);
     background: none;
@@ -7637,7 +7669,8 @@ h1, h2, h3, h4, h5,
 
 .ftco-section-featured {
   margin-top: -250px;
-  padding-bottom: 7em; }
+  /* padding-bottom: 7em; */
+}
   .ftco-section-featured .container {
     z-index: 2;
     position: relative; }
@@ -9050,4 +9083,9 @@ textarea.form-control {
   height:auto;
   margin-right:auto;
   margin-left:auto
+}
+
+.bloom-popup {
+  background-color: #fce7f1;
+  border-radius: 0.3rem;
 }

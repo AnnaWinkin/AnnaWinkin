@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Anna Winkin",
     "description": "",
-    "home_page_url": "https://annawinkin.github.io/annawinkin",
-    "feed_url": "https://annawinkin.github.io/annawinkin/feed.json",
+    "home_page_url": "https://annawinkin.be",
+    "feed_url": "https://annawinkin.be/feed.json",
     "user_comment": "",
-    "icon": "https://annawinkin.github.io/annawinkin/media/website/annawinkin-profile.jpeg",
+    "icon": "https://annawinkin.be/media/website/annawinkin-profile.jpeg",
     "author": {
         "name": "Anna Winkin"
     },
